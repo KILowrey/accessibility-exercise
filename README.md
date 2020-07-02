@@ -2,17 +2,19 @@
 
 ## take an existing website and make it accessible
 
-This is an assignment for UCSD Extention's Full Stack Web Development course. The objective is to take a pre-existing web site and make it dissability accessible, as well as improve the code in general where possible.
+In this exercise I took some very inefficent code and made it simpilar, while keeping the end result the same. I added comments to the code explaining what everything is for the ease of use of the next person to work on it. I also added alt text for images for the benefit of visually impared visitors to the site. The end result is code that is far more self explainitory and accessible to future coders, as well as a website that is far more accessable to disabled visitors.
 
->>>(fill in what problems this solves, what I learned, what makes this project stand out, etc. when done)
+I learned how to replace div's with the proper semantic elements, how to write proper alt text for images, and how to simplify other people's code so that it works the same but is easyer to work *on* and improve. This project does not really stand out for any *professional* reason other than it is my first of many for this class, and that I worked independantly, with less guidence than was provided in previous work.
+
+As a person with my own disability (which I would prefer not to specify), accessibility is something I greatly value for myself and my disabled siblings. I was very pleased to find that our first assignment was on something so important to so many people.
 
 ## Installation
 
->There should be no installation needed for this project.
+There should be no installation needed for this project.
 
 ## Usage 
 
->Interact with this site as you would a normal webpage.
+Interact with this site as you would a normal webpage.
 
 ## Credits
 
@@ -22,14 +24,10 @@ Alt Text was writen with guidence from [this tutorial by Veronica Lewis](https:/
 
 ## Badges
 
->>[find badges to add when done here](https://shields.io/)
-
-## Tests
-
->>(fill in when done with project)
+>insert badge for GitBug repo size
 
 ---
 
 ## License
 
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved
