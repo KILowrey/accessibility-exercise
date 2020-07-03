@@ -14,17 +14,13 @@ There should be no installation needed for this project.
 
 ## Usage 
 
-Interact with this site as you would a normal webpage.
+Interact with this site as you would a normal webpage. click on the links in the header to jump down to lower parts of the page. For best results open the site in a full screen browser on a computer.
 
 ## Credits
 
 The base code for this project was provided by Trilogy Education Services and can be found at my class [GitLab Repository for Week one under Homework](https://ucsd.bootcampcontent.com/UCSD-Coding-Bootcamp/ucsd-sd-fsf-pt-06-2020-u-c/tree/master/01-HTML-Git-CSS/02-Homework).
 
 Alt Text was writen with guidence from [this tutorial by Veronica Lewis](https://www.perkinselearning.org/technology/blog/how-write-alt-text-and-image-descriptions-visually-impaired).
-
-## Badges
-
->insert badge for GitBug repo size
 
 ---
 
